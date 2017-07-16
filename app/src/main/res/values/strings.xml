@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FireBaseSignIn</string>
+    <string name="login_page">LOGIN</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome_message">WELCOME TO APP</string>
 </resources>
